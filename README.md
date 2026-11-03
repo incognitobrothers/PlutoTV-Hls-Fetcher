@@ -13,6 +13,20 @@
 # 🛠️ Auto Updates
 The Playlist Are Automatically Regenerated via a GitHub Actions Workflow.
 
+## ℹ️ About
+This Repository Has Been Created **For Personal Use And Educational Purposes**.
+
+---
+
+## 🚀 Usage
+- Personal Practice  
+- Learning & Experimenting  
+- Educational Reference  
+
+---
+
+
+
 ---
 # ⚠️ Important Notes
 This is an Unofficial Project & Educational Purposes Only.
