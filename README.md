@@ -19,7 +19,7 @@ This Repository Has Been Created **For Personal Use And Educational Purposes**.
 ---
 
 ---
-# ⚠️ Important Notes
+# ⚠️ Important Note
 This is an Unofficial Project.
 
 
