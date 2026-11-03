@@ -18,18 +18,9 @@ This Repository Has Been Created **For Personal Use And Educational Purposes**.
 
 ---
 
-## 🚀 Usage
-- Personal Practice  
-- Learning & Experimenting  
-- Educational Reference  
-
----
-
-
-
 ---
 # ⚠️ Important Notes
-This is an Unofficial Project & Educational Purposes Only.
+This is an Unofficial Project.
 
 
 
