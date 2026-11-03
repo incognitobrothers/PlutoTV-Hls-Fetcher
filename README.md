@@ -1,16 +1,16 @@
-# 📺 Pluto TV M3U Playlist
+# 📺 Pluto TV 
 
 ---
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/incognitobrothers/PlutoTV-Hls-Fetcher/refs/heads/main/pluto.gif"
-    alt="Pluto TV Demo"
+    alt=""
     width="100%"
   >
 </p>
 
-## 📺 How to Use
+# 📺 How to Use
 
 1. **Copy Playlist URL**
 2. **Open With IPTV Player**
