@@ -13,6 +13,9 @@
 # 🛠️ Auto Updates
 The Playlist Are Automatically Regenerated via a GitHub Actions Workflow.
 
+# 📝Note
+* The Following Code is For Educational Purposes Only.  
+
 ---
 # ⚠️ Important Notes
 This is an Unofficial Project.
