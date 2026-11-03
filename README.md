@@ -10,10 +10,14 @@
   >
 </p>
 
-# 📺 How to Use
+# 🛠️ Auto Updates
+The Playlist Are Automatically Regenerated via a GitHub Actions Workflow.
 
-1. **Copy Playlist URL**
-2. **Open With IPTV Player**
-3. **Enjoy!** 🎉
+---
+# ⚠️ Important Notes
+This is an Unofficial Project.
+
+
+
 
 ---
